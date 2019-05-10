@@ -7,17 +7,17 @@ The reports are also very good templets for us to learn how to write a good repo
 Works:
 
 ## 1 Essential Data Skills - Supply and Demand
-	* Dataset: 2018 Kaggle ML & DS Survey
-	* Done By: V Muller
-	* Language: Python
-	* Win: Gold Medal 
-	> Surprised by the figures and pictures created by the author. The author used HTML script to generate beautiful pictures.
+* Dataset: 2018 Kaggle ML & DS Survey
+* Done By: V Muller
+* Language: Python
+* Win: Gold Medal 
+> Surprised by the figures and pictures created by the author. The author used HTML script to generate beautiful pictures.
 	
 ## 2 Where do People learn ML / DS?
-	* Dataset: 2018 Kaggle ML & DS Survey
-				100K Coursera's Course Reviews Dataset
-	* Done By: Martin Barron
-	* Language: R
-	* Win: Gold Medal 
-	> Try to use as many datasets as we can could greatly help us to find the real world.
-	> A very good example to learn **plotly**
+* Dataset: 2018 Kaggle ML & DS Survey
+			100K Coursera's Course Reviews Dataset
+* Done By: Martin Barron
+* Language: R
+* Win: Gold Medal 
+> Try to use as many datasets as we can could greatly help us to find the real world.
+> A very good example to learn **plotly**
