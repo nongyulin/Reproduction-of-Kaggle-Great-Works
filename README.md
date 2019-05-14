@@ -55,4 +55,11 @@ Works:
  > However, the author put all the countries into four groups: US, India, Russia, and other countries.
  > Personally speaking, I think it could be better that if the countries were divided into five groups: US, India, China, Russia, and other countries. 
  
- 
+ ## 6 The MOOC Wars: Kaggle's Perspective
+ * Dataset: 
+	1 2018 Kaggle ML & DS Survey
+* Done By: Oleksandr(Alex) Akulov
+* Language: Python
+
+ > By looking at the platforms mentioned by the survey respnodents, we are able to find out different learning MOOCs, and could try to find some we are interested in.
+
