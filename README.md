@@ -31,10 +31,15 @@ Works:
 * Done By: Andre Sionek
 * Language: Python
 
-> - Good example to deal with imbalanced data.
+> - Good example to learn **imblearn** to deal with imbalanced data.
 > - Good to carefully read and reproduce the code and comments, which not only teach us how to do a good EDA work, and also show us how to be a good Dara Scientist.
 
+## 4 A Tale of 4 Kaggler Types by IDE use 2018 Survey
+* Dataset: 
+	1 2018 Kaggle ML & DS Survey
+* Done By: Rob Muller
+* Language: Python
 
-
+> Good to know what IDE to learn if you want to be a Data Scientist.
 
 
