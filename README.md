@@ -40,6 +40,19 @@ Works:
 * Done By: Rob Muller
 * Language: Python
 
-> Good to know what IDE to learn if you want to be a Data Scientist.
+> - Good to know what IDE to learn if you want to be a Data Scientist.
+> - Good example for ML
 
 
+## 5 Russia, USA, India and other countries
+* Dataset: 
+	1 2018 Kaggle ML & DS Survey;
+	2 Cost of Living per Country
+* Done By: Andrew Lukyanenko
+* Language: Python
+
+ > From the very beginning of this  report, the author already disclosed that "As expected most of the responders are from USA, India and China"
+ > However, the author put all the countries into four groups: US, India, Russia, and other countries.
+ > Personally speaking, I think it could be better that if the countries were divided into five groups: US, India, China, Russia, and other countries. 
+ 
+ 
