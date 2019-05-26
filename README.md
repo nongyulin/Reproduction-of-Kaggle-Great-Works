@@ -64,7 +64,7 @@ Works:
 
  > By looking at the platforms mentioned by the survey respnodents, we are able to find out different learning MOOCs, and could try to find some we are interested in.
 
-<<<<<<< HEAD
+
 ## 7 The MOOC Wars: Kaggle's Perspective
  * Dataset: 
 	+ 1 2018 Kaggle ML & DS Survey
@@ -142,8 +142,5 @@ Works:
 * Language: Python
 
 
-## Input Data
-All the dataset are stored in /input-data
-* No 1-7: data for No.1~No.7
-=======
->>>>>>> parent of 74a3230... add No.7
+
+
