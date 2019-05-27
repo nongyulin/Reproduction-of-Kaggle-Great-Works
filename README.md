@@ -123,6 +123,21 @@ Works:
 
 > No comments from the author. Need patient to read the code.
 
+## 14 Predictions with XGboost and Linear Regression
+ * Dataset: 
+	+ 1 House Sales in King County, USA 
+* Done By: MuhammetBurakErgenc
+* Language: Python
+
+
+## 15 Visualizing KNN, SVM, and XGBoost on Iris Dataset
+ * Dataset: 
+	+ 1 Iris Species
+* Done By: Gabriel Kerr
+* Language: Python
+
+>In this example, the KNN is the simplest model. However, the KNN works much better than SVM and XGBoost for this dataset.
+
 ## 20 Introduction to Ensembling/Stacking in Python
  * Dataset: 
 	+ 1 Titanic: Machine Learning from Disaster
