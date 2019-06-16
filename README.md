@@ -102,18 +102,13 @@ Works:
 * Done By: J.Jones
 * Language: Python
 
-## 12 Fraud Detection with Naive Bayes Classifier
+## 12 Logistic Regression Implementation
  * Dataset: 
-	+ 1 Credit Card Fraud Detection
-* Done By: Lovedeep Saini
+	+ 1 Breast Cancer Wisconsin (Diagnostic) Data Set
+* Done By: DATAI
 * Language: Python
 
-> - This is a very good example for **unbalanced data**!
-> - Pay attention to the prediction results with selections of different features.
-> - Pay attention to results comparison. 
-> - Five metrics are used at this example: confusion matrix, recall score, precision score, f1 score, accuracy score, ROC AUC
-> - LogisticRegression works really bad for unbalanced dataset.
-> - For a certain algorithm, even some metrics give good results(e.g. recall score and accuracy score), other metrics could be bad(e.g. precision score and f1 score)
+> - Good to learn LR from this script, and also the way that using functions to make the script neat and clean.
 
 ## 13 Price analysis and Linear Regression
  * Dataset: 
@@ -136,7 +131,19 @@ Works:
 * Done By: Gabriel Kerr
 * Language: Python
 
->In this example, the KNN is the simplest model. However, the KNN works much better than SVM and XGBoost for this dataset.
+> - In this example, the KNN is the simplest model. However, the KNN works much better than SVM and XGBoost for this dataset.
+> - Normally, it is better to use feature normalization before model training coud improve the results for this dataset.
+
+## 16 EDA-Feature-Engineering-and-model-interpretation
+ * Dataset: 
+	+ 1 TMDB Box Office Prediction
+	+ 2 TMDB Competition Additional Features
+	+ 3 TMDB Competition Additional Training Data
+* Done By: Andrew Lukyanenko
+* Language: Python
+
+> - Learn to collect very piece of useful information to build a good job.
+
 
 ## 20 Introduction to Ensembling/Stacking in Python
  * Dataset: 
