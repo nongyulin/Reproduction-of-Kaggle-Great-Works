@@ -57,7 +57,7 @@ Works:
  > Personally speaking, I think it could be better that if the countries were divided into five groups: US, India, China, Russia, and other countries. 
  
  ## 6 The MOOC Wars: Kaggle's Perspective
- * Dataset: 
+* Dataset: 
 	+ 1 2018 Kaggle ML & DS Survey
 * Done By: Oleksandr(Alex) Akulov
 * Language: Python
@@ -66,7 +66,7 @@ Works:
 
 
 ## 7 The MOOC Wars: Kaggle's Perspective
- * Dataset: 
+* Dataset: 
 	+ 1 2018 Kaggle ML & DS Survey
 	+ 2 Meta Kaggle
 * Done By: beluga
@@ -75,7 +75,7 @@ Works:
 > Good example to learn LogisticRegression, LinearRegression, RandomForestClassifier, xgboost and etc.
 
 ## 8 Cross Validation
- * Dataset: 
+* Dataset: 
 	+ 1 Melbourne Housing Snapshot ( <em> This is a dataset created by DanB himself. The author provided several good examples to explore the dataset. Good to learn! </em>)
 * Done By: DanB
 * Language: Python
@@ -83,13 +83,13 @@ Works:
 > Short and brief discription of cross validation. Remember to do cross validation when dataset is small.
 
 ## 9 Step by Step Diabetes Classification-KNN-detailed
- * Dataset: 
+* Dataset: 
 	+ 1 Pima Indians Diabetes Database
 * Done By: Shruti_Iyyer
 * Language: Python
 
 ## 10 Introduction to Decision Trees (Titanic dataset)
- * Dataset: 
+* Dataset: 
 	+ 1 Titanic: Machine Learning from Disaster
 * Done By: Diego Milla
 * Language: Python
@@ -97,13 +97,13 @@ Works:
 > Good to read the notes at the beginning of the script. The reason why to learn Desicion Tree and when to apply Desicion Tree was well explained by the author.
 
 ## 11 Naive Bayesian Network with 7 features
- * Dataset: 
+* Dataset: 
 	+ 1 Porto Seguro’s Safe Driver Prediction
 * Done By: J.Jones
 * Language: Python
 
 ## 12 Logistic Regression Implementation
- * Dataset: 
+* Dataset: 
 	+ 1 Breast Cancer Wisconsin (Diagnostic) Data Set
 * Done By: DATAI
 * Language: Python
@@ -111,7 +111,7 @@ Works:
 > - Good to learn LR from this script, and also the way that using functions to make the script neat and clean.
 
 ## 13 Price analysis and Linear Regression
- * Dataset: 
+* Dataset: 
 	+ 1 Melbourne Housing Market
 * Done By: Tony Pino
 * Language: Python
@@ -119,14 +119,14 @@ Works:
 > No comments from the author. Need patient to read the code.
 
 ## 14 Predictions with XGboost and Linear Regression
- * Dataset: 
+* Dataset: 
 	+ 1 House Sales in King County, USA 
 * Done By: MuhammetBurakErgenc
 * Language: Python
 
 
 ## 15 Visualizing KNN, SVM, and XGBoost on Iris Dataset
- * Dataset: 
+* Dataset: 
 	+ 1 Iris Species
 * Done By: Gabriel Kerr
 * Language: Python
@@ -135,7 +135,7 @@ Works:
 > - Normally, it is better to use feature normalization before model training coud improve the results for this dataset.
 
 ## 16 EDA-Feature-Engineering-and-model-interpretation
- * Dataset: 
+* Dataset: 
 	+ 1 TMDB Box Office Prediction
 	+ 2 TMDB Competition Additional Features
 	+ 3 TMDB Competition Additional Training Data
@@ -144,24 +144,31 @@ Works:
 
 > - Learn to collect very piece of useful information to build a good job.
 
-
-## 20 Introduction to Ensembling/Stacking in Python
- * Dataset: 
-	+ 1 Titanic: Machine Learning from Disaster
-* Done By: Anisotropic
+## 17 Logistic Regression Implementation
+* Dataset: 
+	+ 1 Breast Cancer Wisconsin (Diagnostic) Data Set
+* Done By: DATAI
 * Language: Python
 
-## 21 Titanic Top 4% with ensemble modeling
- * Dataset: 
-	+ 1 Titanic: Machine Learning from Disaster
-* Done By: Yassine Ghouzam
-* Language: Python
-
-## 22 Titanic Top 4% with ensemble modeling
- * Dataset: 
+## 18 Filling up missing values
+* Dataset: 
 	+ 1 House Prices: Advanced Regression Techniques
-* Done By: Serigne
+* Done By: meikegw
 * Language: Python
+
+## 19 PCA and Regression
+* Dataset: 
+	+ 1 House Prices: Advanced Regression Techniques
+* Done By: Miguel Angel
+* Language: Python
+
+## 20 Training set split for cross validation
+* Dataset: 
+	+ 1 Caterpillar Tube Pricing
+* Done By: Yifan Xie
+* Language: Python
+
+
 
 
 
